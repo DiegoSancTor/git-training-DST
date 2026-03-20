@@ -1,2 +1,1 @@
-Este es una nueva funcionalidad que estoy creando en una rama nueva y las otras líneas no tienen sentido ahora, DST
-modificado desde IntelliJ
+Ahora estamos en la priemra linea de fichero pero desde la nueva rama /feature
